@@ -1,3 +1,9 @@
+# mac
+.DS_Store
+
+# data directory
+data/
+
 # History files
 .Rhistory
 .Rapp.history
